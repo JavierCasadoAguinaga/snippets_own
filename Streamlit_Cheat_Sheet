@@ -1,5 +1,3 @@
-# Streamlit Cheat Sheet
-
 ## Import
 ```python
 import streamlit as st
